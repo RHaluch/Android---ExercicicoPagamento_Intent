@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExercicicoPagamento</string>
+    <string-array name="tipos">
+        <item>Boleto</item>
+        <item>Crédito</item>
+        <item>Dinheiro</item>
+    </string-array>
+</resources>
